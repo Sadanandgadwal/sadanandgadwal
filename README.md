@@ -1,7 +1,7 @@
 # 💫 About Me:I'm Sadanand Gadwal
 ( Web developer, React.js Developer, Logo Designer)<br>
-🔭 I’m currently working on Nextcampus Blog<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning Backend<br>💬 Ask me about react<br>⚡ Fun fact
-#https://sadanandgadwal.netlify.app/ Website 
+🔭 I’m currently working on Nextcampus Blog<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning Backend<br>💬 Ask me about react<br>⚡ Website 
+#https://sadanandgadwal.netlify.app/ 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sadanandgadwal7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadanand_gadwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadanand-gadwal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sadanand_u_g) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SadanandGadwal) 
