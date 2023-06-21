@@ -1,6 +1,6 @@
 # 💫 About Me:I'm Sadanand Gadwal
 ( Web developer, React.js Developer, Logo Designer)<br>
-🔭 I’m currently working on Nextcampus Blog<br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning Backend<br>💬 Ask me about react<br>⚡ Website 
+🔭 I’m currently working on Nextcampus Blog<br>💬 Ask me about react<br>⚡ Website 
 #https://sadanandgadwal.me/ 
 
 ## 🌐 Socials:
