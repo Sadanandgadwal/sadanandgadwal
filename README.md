@@ -1,6 +1,6 @@
 # 💫 About Me:I'm Sadanand Gadwal
 ( MERN Stack developer, Logo Designer)<br>
-🔭 I’m currently working on Nextcampus Blog<br>💬 Ask me about react<br>⚡ Website 
+🔭 I’m currently working on Nextcampus Blog<br>⚡ Website 
 #https://sadanandgadwal.me/ 
 
 ## 🌐 Socials:
