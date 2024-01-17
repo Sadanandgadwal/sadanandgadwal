@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" alt="Image"></img>
+
 🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All my projects and experience are available at SadanandGadwal.me <br><br>💬️ Ask me about React | Javascript <br><br>📫 How to reach me Sadanandgadwal@gmail.com<br>
 
 
