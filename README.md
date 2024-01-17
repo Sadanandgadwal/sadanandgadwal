@@ -1,4 +1,4 @@
-# 💫 About Me: Im Sadanand Gadwal Here
+# 💫 About Me: I'm Sadanand Gadwal Here
 
 🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All my projects and experience are available at SadanandGadwal.me <br><br>💬️ Ask me about React | Javascript <br><br>📫 How to reach me Sadanandgadwal@gmail.com<br>
 
