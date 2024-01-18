@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+Account.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+my+Github+Account+I'm+Sadanand+Gadwal.)](https://git.io/typing-svg)
 
-# 💫 About Me: I'm Sadanand Gadwal Here
+
+# 💫 About Me
 
 ![SadanandGadwal Banner](sadanand.jpg)
+
 
 🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All my projects and experience are available at SadanandGadwal.me <br><br>💬️ Ask me about React | Javascript <br><br>📫 How to reach me Sadanandgadwal@gmail.com<br>
 
