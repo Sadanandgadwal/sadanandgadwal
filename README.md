@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+my+Github+Account+I'm+Sadanand+Gadwal.)](https://git.io/typing-svg)
 
-<div id="header" align="center">
-  <img src=Github-Animation.gif width="200"/>
-</div>
+[![Typing SVG](Github-Animation.gif)
+
 
 # 💫 About Me
 
