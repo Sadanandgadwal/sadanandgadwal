@@ -10,7 +10,7 @@
 ![SadanandGadwal Banner](sadanand.jpg)
 
 
-🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All my projects and experience are available at https://sadanandgadwal.netlify.app <br><br>💬️ Ask me about React | Javascript <br><br>📫 How to reach me Sadanandgadwal@gmail.com<br>
+🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All my projects and experience are available at https://sadanandgadwal.com <br><br>💬️ Ask me about React | Javascript <br><br>📫 How to reach me Sadanandgadwal@gmail.com<br>
 
 
 
