@@ -7,7 +7,7 @@
 
 # 💫 About Me
 
-![SadanandGadwal Banner](sadanand.jpg)
+![SadanandGadwal Banner](sadanandgadwal-banner-info.png)
 
 
 🔭️ I Work on Javascript Tools like React & Express<br><br>🧑‍💻️ All my projects and experience are available at https://sadanandgadwal.com <br><br>💬️ Ask me about React | Javascript <br><br>📫 How to reach me Sadanandgadwal@gmail.com<br>
