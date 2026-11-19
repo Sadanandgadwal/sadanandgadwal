@@ -11,7 +11,7 @@
 
 Frontend-focused **Full Stack Developer** with **3+ years of experience** building scalable ERP applications, complex dashboards, interactive reports and performance-optimized web apps with **React.js** and modern frontend tooling.
 
-🔭 Currently working as a **Full Stack Developer at [Digital Think Technologies LLP](https://knsgroup.in/)**, Bangalore — building real estate ERP modules with React.js, Node.js, Express.js & MongoDB<br><br>
+🔭 Currently working as a **Full Stack Developer at [Digital Think Technologies LLP](https://knsgroup.in/)**, Bangalore — building real estate ERP modules<br><br>
 🎨 I turn Figma designs into responsive, pixel-perfect interfaces using Material UI, Tailwind CSS & SCSS<br><br>
 📊 I build data visualizations with Chart.js and Syncfusion Gantt Chart<br><br>
 🧑‍💻 All my projects and experience are available at https://sadanandgadwal.com<br><br>
